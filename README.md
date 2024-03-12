@@ -21,3 +21,5 @@ This dataset has six attributes described below:
 There are nine main groups of questions in the assignment that need to be done:
 - Group of questions related to data generalization.
 - Group of questions related to basic statistical description of data.
+- Group of questions related to metadata.
+- 
