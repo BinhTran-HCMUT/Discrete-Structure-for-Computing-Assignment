@@ -19,7 +19,12 @@ This dataset has six attributes described below:
 
 ## Questions in Assignment
 There are nine main groups of questions in the assignment that need to be done:
-- Group of questions related to data generalization.
-- Group of questions related to basic statistical description of data.
-- Group of questions related to metadata.
-- 
+- Group of questions related to **data generalization.**
+- Group of questions related to **basic statistical description of data.**
+- Group of questions related to **metadata.**
+- Group of questions related to **data visualization.**
+- Group of questions related to** data visualization in months.**
+- Group of questions related to **data visualization in seven average recent days.**
+- Group of questions related to **all countries in months.**
+- Group of questions related to **all countries in seven average recent days.**
+- Group of questions related to **correlation between deaths and COVID cases.**
